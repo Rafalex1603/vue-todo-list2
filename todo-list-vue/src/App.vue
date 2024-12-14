@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import AppHeader from './components/AppHeader.vue';
+import Listtlem from './components/ListItem.vue';
 </script>
 
 <template>
